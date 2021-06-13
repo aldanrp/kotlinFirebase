@@ -1,0 +1,2 @@
+rootProject.name = "KotlinFirebase"
+include ':app'
